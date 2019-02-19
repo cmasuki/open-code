@@ -4,8 +4,7 @@ Hello and welcome to the CMAS open-code project! :tada:
 
 Our goal is to create an online platform where everyone interested in motion analysis can share coding resources.
 
-
-**Why?** Using motion analysis code can save time and reduce errors by automating routine tasks, and it produce new insights by enabling complex calculations. 
+**Why?** Using motion analysis code can save time and reduce errors by automating routine tasks, and produce new insights by enabling complex calculations. 
 
 However, not everyone has the skills or time to learn how to develop their own code.
 
