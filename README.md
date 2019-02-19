@@ -26,4 +26,4 @@ Thanks for your interest in contributing to CMAS open-code! There are many ways 
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [Dimitra](https://github.com/dblana).
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behaviour to [Dimitra](https://github.com/dblana).
