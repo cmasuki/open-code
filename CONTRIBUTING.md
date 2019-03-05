@@ -44,14 +44,14 @@ Once you've identified a way to contribute, you're ready to make a change to the
 
     You can now do whatever you want with this copy of the project. You won't mess up anyone else's work so you're safe.
 
-3. Make the changes you've discussed.
-
-    If your change is more than fixing simple typing mistakes, please create a [separate branch](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository). This isolates your work so it doesn't affect your main repository. If you wanted, you could be working on multiple branches at once, addressing different issues! Thank you for your enthusiasm :thumbsup: You can read more about branches [here](https://help.github.com/en/articles/about-branches). 
-
+3. Make the changes you've discussed. How you do this depends on the nature of the changes.
+    
+    * Are you simply fixing typing mistakes? Go ahead and make your corrections on your forked repository (the "master branch").
+    * Are you changing more than typing mistakes, but they are all changes you can make on Github itself? Then please create a [separate branch](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository). This isolates your work so it doesn't affect your master branch. If you wanted, you could be working on multiple branches at once, addressing different issues! Thank you for your enthusiasm :thumbsup: You can read more about branches [here](https://help.github.com/en/articles/about-branches). 
+    * Do you need to do work on your local machine, for example to run and test the code your are contributing? Then you'll need to [set up Git](https://help.github.com/en/articles/set-up-git) and create a local clone of your forked repository. Make changes to your local clone, and when you are ready, [push](https://help.github.com/en/articles/pushing-to-a-remote) your changes to the forked repository. Read more about [Git](https://git-scm.com/) and [Github flow](https://guides.github.com/introduction/flow/).
+    
 4. Submit a [pull request](https://help.github.com/en/articles/proposing-changes-to-your-work-with-pull-requests).
     
     A member of the main team will review your changes, have a bit of discussion and hopefully merge them in!
 
 **Success!!** :balloon::balloon::balloon: Well done! And thank you :smiley:
-
-**If you will be working with code**, you'll need to [set up Git](https://help.github.com/en/articles/set-up-git) and create a local clone of your fork. [Git](https://git-scm.com/) is a version control system, that allows you to keep track of changes you make to your files, so that at any time you can go back to any previous version. 
