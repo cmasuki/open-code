@@ -16,7 +16,7 @@ This project is the answer! We will use it to share code, and include step-by-st
 
 **People who would like to use code** but do not have time or interest in developing it themselves, will be able to easily find relevant resources, with instructions and examples of use.
 
-## Getting Started
+## What is motion analysis?
 
 Coming soon :construction:
 
