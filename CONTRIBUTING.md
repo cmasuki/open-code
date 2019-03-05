@@ -36,13 +36,13 @@ Once you've identified a way to contribute, you're ready to make a change to the
 
 1. First, describe what you're planning to do as a comment to the issue you've identified, or make a new issue.
 
-    The purpose of writing a good comment in advance to ensure you aren't overlapping with work that's currently underway and that everyone is on the same page with the goal of the work you're going to carry out.
+    The purpose of writing a good comment in advance is to ensure you aren't overlapping with work that's currently underway and that everyone is on the same page with the goal of the work you're going to carry out.
     
     [This blog](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/) is a nice explanation of why putting this work in up front is so useful to everyone involved.
     
 2. [Fork](https://help.github.com/en/articles/fork-a-repo) the [CMAS open-code repository](https://github.com/cmasuki/open-code) to your profile.
 
-    You can now do whatever you want with this copy of the project. You won't mess up anyone else's work so you're super safe.
+    You can now do whatever you want with this copy of the project. You won't mess up anyone else's work so you're safe.
 
 3. Make the changes you've discussed.
 
@@ -53,3 +53,5 @@ Once you've identified a way to contribute, you're ready to make a change to the
     A member of the main team will review your changes, have a bit of discussion and hopefully merge them in!
 
 **Success!!** :balloon::balloon::balloon: Well done! And thank you :smiley:
+
+**If you will be working with code**, you'll need to [set up Git](https://help.github.com/en/articles/set-up-git) and create a local clone of your fork. [Git](https://git-scm.com/) is a version control system, that allows you to keep track of changes you make to your files, so that at any time you can go back to any previous version. 
