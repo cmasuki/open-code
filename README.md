@@ -28,7 +28,7 @@ The equipment used in movement analysis include 2D video, 3D computerised motion
 
 You can read more about movement analysis [here](https://cmasuki.org/introduction-to-movement-analysis/).
 
-![MovementAnalysis](https://github.com/cmasuki/open-code/blob/master/Images/MovementAnalysis.jpg "Photo from movement analysis lab")
+![MovementAnalysis](https://github.com/cmasuki/open-code/blob/master/Images/MovementAnalysis.JPG "Photo from movement analysis lab")
 
 ## Contributing
 
