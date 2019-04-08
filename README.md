@@ -14,15 +14,15 @@ However, not everyone has the skills or time to learn how to develop their own c
 
 **People with technical skills will be able to collaborate, create new tools, and easily share them among all movement analysis labs.**
 
-*Is this you?* [Tell us a bit about yourself](https://github.com/cmasuki/open-code/issues/11) (you may need to create a new Github account if you don't already have one). Do you have code you are thinking of sharing? [Let us know about it](https://github.com/cmasuki/open-code/issues/12). Are you ready to contribute? Have a look at our [contributing guidelines](https://github.com/cmasuki/open-code/blob/master/CONTRIBUTING.md). And sign up to our mailing list to get updates about the project!  
+*Is this you?* [Tell us a bit about yourself](https://github.com/cmasuki/open-code/issues/11) (you may need to create a new Github account if you don't already have one). Do you have code you are thinking of sharing? [Let us know about it](https://github.com/cmasuki/open-code/issues/12). Are you ready to contribute? Have a look at our [contributing guidelines](https://github.com/cmasuki/open-code/blob/master/CONTRIBUTING.md). And [sign up to our mailing list](https://tinyletter.com/CMAS) to get updates about the project!  
 
 **Coding beginners who are keen to develop their skills will find a library of tutorials and example code to support their learning.** 
 
-*Is this you?* [Tell us a bit about yourself](https://github.com/cmasuki/open-code/issues/11) (follow the instructions on the page to create a new Github account, if you don't already have one). And if there is a particular coding language you are interested in, let us know about that too! We are in the process of creating learning resources specific to movement analysis, so sign up to our mailing list and we will let you know when they are available.  
+*Is this you?* [Tell us a bit about yourself](https://github.com/cmasuki/open-code/issues/11) (follow the instructions on the page to create a new Github account, if you don't already have one). And if there is a particular coding language you are interested in, let us know about that too! We are in the process of creating learning resources specific to movement analysis, so [sign up to our mailing list](https://tinyletter.com/CMAS) and we will let you know when they are available.  
 
 **People who would like to use code but do not have time or interest in developing it themselves, will be able to easily find relevant resources, with instructions and examples of use.**
 
-*Is this you?* [Tell us a bit about yourself](https://github.com/cmasuki/open-code/issues/11) (and create a new Github account if you need to). If you are looking for code to solve a particular problem, please [create a new issue](https://github.com/cmasuki/open-code/issues) and describe the problem. Sign up to our mailing list to get updates about the project!
+*Is this you?* [Tell us a bit about yourself](https://github.com/cmasuki/open-code/issues/11) (and create a new Github account if you need to). If you are looking for code to solve a particular problem, please [create a new issue](https://github.com/cmasuki/open-code/issues) and describe the problem. [Sign up to our mailing list](https://tinyletter.com/CMAS) to get updates about the project!
 
 ## What is movement analysis?
 
