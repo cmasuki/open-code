@@ -8,7 +8,9 @@ Our goal is to create an online platform where everyone interested in movement a
 
 However, not everyone has the skills or time to learn how to develop their own code.
 
-This project is the answer! We will use it to share code, and include step-by-step tutorials on how to develop and use it. 
+:sparkles: This project is the answer! :sparkles: We will use it to share code, and include step-by-step tutorials on how to develop and use it. 
+
+---
 
 **People with technical skills** will be able to collaborate, create new tools, and easily share them among all movement analysis labs. 
 
