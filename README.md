@@ -1,6 +1,6 @@
 # CMAS open-code
 
-[![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/CMAS)
+[![Chat with us on Slack](https://img.shields.io/badge/Chat%20with%20us-on%20Slack-red.svg)](https://join.slack.com/t/cmas-open-code/shared_invite/enQtNjAyMjQxMjk3MTIwLTdkOGQ5YjFiZjYyMmI3NDNiYWQ2YjlkYzYxNmMzNzU1ZmM4MWNjY2M5OTg1MDE3Njg2MmJiYWJlMTZjYWNmOTY) [![Join our tinyletter mailing list](https://img.shields.io/badge/Receive-our%20newsletter-blue.svg)](https://tinyletter.com/CMAS)
 
 Hello and welcome to the CMAS open-code project! :tada:
 
