@@ -1,5 +1,7 @@
 # CMAS open-code
 
+[![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/CMAS)
+
 Hello and welcome to the CMAS open-code project! :tada:
 
 Our goal is to create an online platform where everyone interested in movement analysis can share coding resources.
@@ -23,6 +25,8 @@ However, not everyone has the skills or time to learn how to develop their own c
 **People who would like to use code but do not have time or interest in developing it themselves, will be able to easily find relevant resources, with instructions and examples of use.**
 
 *Is this you?* [Tell us a bit about yourself](https://github.com/cmasuki/open-code/issues/11) (and create a new Github account if you need to). If you are looking for code to solve a particular problem, please [create a new issue](https://github.com/cmasuki/open-code/issues) and describe the problem. [Sign up to our mailing list](https://tinyletter.com/CMAS) to get updates about the project!
+
+---
 
 ## What is movement analysis?
 
