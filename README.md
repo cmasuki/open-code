@@ -10,7 +10,7 @@ Our goal is to create an online platform where everyone interested in movement a
 
 However, not everyone has the skills or time to learn how to develop their own code.
 
-:star2: This project is the answer! :star2: Here we will share code, and include step-by-step tutorials on how to develop and use it. 
+:star2: This project is the answer! :star2: Here we will [share code](https://github.com/cmasuki/open-code/blob/master/Code/CodeIndex.md), and include step-by-step tutorials on how to develop and use it. 
 
 ---
 
