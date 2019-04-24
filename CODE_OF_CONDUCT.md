@@ -1,3 +1,5 @@
+# Code of conduct
+
 We want our CMAS open-code project to be an open and welcoming environment! 
 
 We are particularly keen to support first-time contributors, coding beginners, and people who are looking to learn and develop their skills.
