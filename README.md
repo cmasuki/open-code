@@ -1,5 +1,7 @@
 # CMAS open-code
 
+[![Chat with us on Slack](https://img.shields.io/badge/Chat%20with%20us-on%20Slack-red.svg)](https://join.slack.com/t/cmas-open-code/shared_invite/enQtNjAyMjQxMjk3MTIwLTdkOGQ5YjFiZjYyMmI3NDNiYWQ2YjlkYzYxNmMzNzU1ZmM4MWNjY2M5OTg1MDE3Njg2MmJiYWJlMTZjYWNmOTY) [![Join our tinyletter mailing list](https://img.shields.io/badge/Receive-our%20newsletter-blue.svg)](https://tinyletter.com/CMAS)
+
 Hello and welcome to the CMAS open-code project! :tada:
 
 Our goal is to create an online platform where everyone interested in movement analysis can share coding resources.
@@ -8,13 +10,23 @@ Our goal is to create an online platform where everyone interested in movement a
 
 However, not everyone has the skills or time to learn how to develop their own code.
 
-This project is the answer! We will use it to share code, and include step-by-step tutorials on how to develop and use it. 
+:star2: This project is the answer! :star2: Here we will [share code](https://github.com/cmasuki/open-code/blob/master/Code/CodeIndex.md), and include step-by-step tutorials on how to develop and use it. 
 
-**People with technical skills** will be able to collaborate, create new tools, and easily share them among all movement analysis labs. 
+---
 
-**Coding beginners** who are keen to develop their skills will find a library of tutorials and example code to support their learning. 
+**People with technical skills will be able to collaborate, create new tools, and easily share them among all movement analysis labs.**
 
-**People who would like to use code** but do not have time or interest in developing it themselves, will be able to easily find relevant resources, with instructions and examples of use.
+*Is this you?* [Tell us a bit about yourself](https://github.com/cmasuki/open-code/issues/11) (you may need to create a new Github account if you don't already have one). Do you have code you are thinking of sharing? [Let us know about it](https://github.com/cmasuki/open-code/issues/12). Are you ready to contribute? Have a look at our [contributing guidelines](https://github.com/cmasuki/open-code/blob/master/CONTRIBUTING.md). And [sign up to our mailing list](https://tinyletter.com/CMAS) to get updates about the project!  
+
+**Coding beginners who are keen to develop their skills will find a library of tutorials and example code to support their learning.** 
+
+*Is this you?* [Tell us a bit about yourself](https://github.com/cmasuki/open-code/issues/11) (follow the instructions on the page to create a new Github account, if you don't already have one). And if there is a particular coding language you are interested in, let us know about that too! We are in the process of creating learning resources specific to movement analysis, so [sign up to our mailing list](https://tinyletter.com/CMAS) and we will let you know when they are available.  
+
+**People who would like to use code but do not have time or interest in developing it themselves, will be able to easily find relevant resources, with instructions and examples of use.**
+
+*Is this you?* [Tell us a bit about yourself](https://github.com/cmasuki/open-code/issues/11) (and create a new Github account if you need to). If you are looking for code to solve a particular problem, please [create a new issue](https://github.com/cmasuki/open-code/issues) and describe the problem. [Sign up to our mailing list](https://tinyletter.com/CMAS) to get updates about the project!
+
+---
 
 ## What is movement analysis?
 
