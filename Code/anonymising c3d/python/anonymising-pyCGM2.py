@@ -6,7 +6,7 @@ from pyCGM2.Tools import btkTools
 
 if __name__ == "__main__":
 
-    c3dFilename = ""
+    c3dFilename = "TO EDIT"
     DATA_PATH = os.getcwd() + "//"
 
     btkAcq = btkTools.smartReader(DATA_PATH+c3dFilename)
