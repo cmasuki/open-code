@@ -1,0 +1,32 @@
+**DESCRIPTION**
+change subject name of a several c3d files
+
+**SYNOPSIS**
+
+
+
+**AUTHOR**
+
+Stephane Armand : HUG - Geneva (SW)
+
+
+
+**REQUIREMENT**
+
+  * BTK ( matlab) 0
+
+
+
+**CHANGELOG**
+
+  * *[2018-05-07]* proposal to CMASUKI
+
+
+**TODO**
+
+
+
+**HOW TO**
+
+  1. Run the m file
+  2. Select your c3d set i the dialog box
