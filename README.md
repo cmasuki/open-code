@@ -1,6 +1,6 @@
 # CMAS open-code
 
-[![Chat with us on Slack](https://img.shields.io/badge/Chat%20with%20us-on%20Slack-red.svg)](https://join.slack.com/t/cmas-open-code/shared_invite/enQtNjAyMjQxMjk3MTIwLTdkOGQ5YjFiZjYyMmI3NDNiYWQ2YjlkYzYxNmMzNzU1ZmM4MWNjY2M5OTg1MDE3Njg2MmJiYWJlMTZjYWNmOTY) [![Join our tinyletter mailing list](https://img.shields.io/badge/Receive-our%20newsletter-blue.svg)](https://tinyletter.com/CMAS)
+[![Chat with us on Slack](https://img.shields.io/badge/Chat%20with%20us-on%20Slack-red.svg)](https://join.slack.com/t/cmas-open-code/shared_invite/enQtNjQwNDQ3MDc4MTM1LWFiZDcyYTZhOTI2MjZkZWQ1NjIwOThmMGE1ZjAzOGI2ZjU1YTdjZDA3OGVhMTMzYmM4ODQyYzFlNTcyNzliMWI) [![Join our tinyletter mailing list](https://img.shields.io/badge/Receive-our%20newsletter-blue.svg)](https://tinyletter.com/CMAS)
 
 Hello and welcome to the CMAS open-code project! :tada:
 
@@ -17,7 +17,7 @@ However, not everyone has the skills or time to learn how to develop their own c
 ![MozillaSprint](https://github.com/cmasuki/open-code/blob/master/Images/CMAS-open-code-sprint.png "Info about our Mozilla Sprint event")
 
 We are taking part in the [Mozilla 2019 Sprint for Internet Health](https://foundation.mozilla.org/en/initiatives/mozilla-open-leadership--events/collaborate-with-us/sprint-for-internet-health/)! During **May 20-24**:
-1. Our team will be available [on Slack](https://join.slack.com/t/cmas-open-code/shared_invite/enQtNjAyMjQxMjk3MTIwLTdkOGQ5YjFiZjYyMmI3NDNiYWQ2YjlkYzYxNmMzNzU1ZmM4MWNjY2M5OTg1MDE3Njg2MmJiYWJlMTZjYWNmOTY) as much as possible, to answer your questions quickly
+1. Our team will be available [on Slack](https://join.slack.com/t/cmas-open-code/shared_invite/enQtNjQwNDQ3MDc4MTM1LWFiZDcyYTZhOTI2MjZkZWQ1NjIwOThmMGE1ZjAzOGI2ZjU1YTdjZDA3OGVhMTMzYmM4ODQyYzFlNTcyNzliMWI) as much as possible, to answer your questions quickly
 2. The **star contributor of the week*** will win a [Humble Bundle](https://www.humblebundle.com/) gift! 
 
 *By contribution here we mean any kind of engagement: commenting on Github issues, asking/answering questions on Slack, adding code, reacting with emojis etc.
