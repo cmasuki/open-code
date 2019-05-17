@@ -3,7 +3,7 @@ Dear friends of CMAS-open-code,
 It has been a few weeks since we announced our project at the [CMAS meeting in Sheffield](https://github.com/cmasuki/open-code/blob/master/Communications/CMAS2019_Sheffield/CMAS-open-code.pdf), and here's an update on what we've been doing since then.
  
  
-# Upcoming events
+## Upcoming events
 
 **[Mozilla Sprint for Internet Health event](http://www.mozillapulse.org/entry/1113), May 20th-24th**
 These five days will be an excellent time to contribute to our project. Click [here](https://github.com/cmasuki/open-code/blob/master/README.md) to get started, share your ideas about the project with us, and get your questions answered by our team. At the end of the week, we will give a prize to the most active member of our community! 
@@ -14,7 +14,7 @@ We will have a hands-on workshop at the RJAH Orthopaedic Hospital (SY10 7AG) to 
 Please let us know if you have ideas for other in-person or online events to help more people get involved in the project!
  
  
-# Newly added code
+## Newly added code
 
 You can see a list of the code contributed by our community members [here](https://github.com/cmasuki/open-code/blob/master/Code/CodeIndex.md). Do you have code you could contribute, or a code wishlist? Get in touch!
 - Neil Postans added code to calculate the [Gait Profile Score & Movement Analysis Profile](https://github.com/cmasuki/open-code/tree/master/Code/Gait_profile_score). To run it, you will need Python 2.7 and Vicon Nexus.
@@ -22,7 +22,9 @@ You can see a list of the code contributed by our community members [here](https
 - Sjoerd Brujin provided a link to Matlab code for reading [accelerometer data from a mobile phone in real time](https://github.com/SjoerdBruijn/StreamPhoneData), and Matlab code to calculate the [Local Dynamic Stability](https://github.com/SjoerdBruijn/LocalDynamicStability).
 
 
+
 Thank you for reading, and we look forward to your contributions!
 
 The CMAS-open-code team
+
 https://cmasuki.github.io/
