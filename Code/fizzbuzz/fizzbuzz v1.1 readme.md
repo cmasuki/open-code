@@ -1,16 +1,16 @@
-fizzbuzz v1.1
-Plays the fizzbuzz game
+**_fizzbuzz v1.1
+Plays the fizzbuzz game_** 
 This code is for learning and playing with Python and Github
 
-Requirements
+**_Requirements_** 
 Anaconda 
 
-Instructions
+**_Instructions_** 
 See attached PDF file.
 
-What has been done so far
+**_What has been done so far_** 
 
-How to contribute to the next steps
+**_How to contribute to the next steps_** 
 
-Contact
+**_Contact_** 
 caroline.stewart9@nhs.net
