@@ -17,7 +17,7 @@ See attached PDF file.
 
 **_What has been done so far_** 
 
-I have got as far as step 3 in the PDF
+I have got as far as step 3 in the PDF.
 
 
 **_How to contribute to the next steps_** 
