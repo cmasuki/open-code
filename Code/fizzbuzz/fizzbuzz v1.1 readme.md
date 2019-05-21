@@ -1,6 +1,7 @@
 **_fizzbuzz v1.1_**
 
-Plays the fizzbuzz game
+Plays the fizzbuzz game.
+
 This code is for learning and playing with Python and Github
 
 
