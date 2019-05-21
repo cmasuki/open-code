@@ -2,7 +2,7 @@
 
 Plays the fizzbuzz game.
 
-This code is for learning and playing with Python and Github
+This code is for learning and playing with Python and Github.
 
 
 **_Requirements_** 
