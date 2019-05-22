@@ -4,7 +4,7 @@ Displays numbers which divide by 3 and 5.
 
 
 **_Requirements_**  
-Anaconda 
+Python 3
 
 
 **_Instructions_**  
