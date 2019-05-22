@@ -9,6 +9,8 @@ CMAS-open-code project
 @author: StewartC
 """
 
+# This loop finds all the numbers which divide by 3 or 5
+
 for a in range (1, 100):
     if ((a%3 > 0) and (a%5 > 0)):    
         print a
