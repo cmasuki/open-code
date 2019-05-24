@@ -14,6 +14,7 @@ In its current state, Btk is avalaible in :
   - Python 2.7
 
 
+
 ### Python
 
 **Warning** : Btk is python 2.7 compatible and have not been tested with python3 yet.
@@ -24,6 +25,14 @@ In its current state, Btk is avalaible in :
 
 After installation, verify Btk import work properly by opening a python console and type: `import btk`
 
+
+### Matlab
+
+- go to the internet [page]( https://code.google.com/archive/p/b-tk/downloads?page=1)
+- download the appropriate Btk-0.3 matlab version (the last version for windows is *btk-0.3.0_Win7_MatlabR2009b_32bit.zip* )
+- once downloaded, add the folder to the matlab path directory.
+
+btk-0.3.0_Win7_MatlabR2008b_32bit.zip
 
 ## Documentation
 
