@@ -13,7 +13,7 @@ Stephane Armand : HUG - Geneva (SW)
 
 **REQUIREMENT**
 
-  * BTK ( matlab) 0
+  * BTK (matlab) : see folder C3d IO folder for Installation 
 
 
 
