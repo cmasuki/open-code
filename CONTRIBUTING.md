@@ -40,23 +40,23 @@ Once you've identified a way to contribute, you're ready to make a change to one
     
     [This blog](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/) is a nice explanation of why putting this work in up front is so useful to everyone involved.
     
-    What you do next depends on whether you will be working with an existing or a new repository.
+What you do next depends on whether you will be working with an existing or a new repository.
 
 ---
 
 2a. **If you are looking to improve an existing repository**, [fork](https://help.github.com/en/articles/fork-a-repo) the repository to your profile.
 
-    You can now do whatever you want with this copy of the project. You won't mess up anyone else's work so you're safe.
+You can now do whatever you want with this copy of the project. You won't mess up anyone else's work so you're safe.
 
 3a. Make the changes you've discussed. How you do this depends on the nature of the changes.
     
-    * Are you simply fixing typing mistakes? Go ahead and make your corrections on your forked repository (the "master branch").
-    * Are you changing more than typing mistakes, but they are all changes you can make on Github itself? Then please create a [separate branch](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository). This isolates your work so it doesn't affect your master branch. If you wanted, you could be working on multiple branches at once, addressing different issues! Thank you for your enthusiasm :thumbsup: You can read more about branches [here](https://help.github.com/en/articles/about-branches). 
-    * Do you need to do work on your local machine, for example run and test the code you are improving? Then you'll need to [set up Git](https://help.github.com/en/articles/set-up-git) and create a local clone of your forked repository. Make changes to your local clone, and when you are ready, [push](https://help.github.com/en/articles/pushing-to-a-remote) your changes to the forked repository. Read more about [Git](https://git-scm.com/) and [Github flow](https://guides.github.com/introduction/flow/).
+* Are you simply fixing typing mistakes? Go ahead and make your corrections on your forked repository (the "master branch").
+* Are you changing more than typing mistakes, but they are all changes you can make on Github itself? Then please create a [separate branch](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository). This isolates your work so it doesn't affect your master branch. If you wanted, you could be working on multiple branches at once, addressing different issues! Thank you for your enthusiasm :thumbsup: You can read more about branches [here](https://help.github.com/en/articles/about-branches). 
+* Do you need to do work on your local machine, for example run and test the code you are improving? Then you'll need to [set up Git](https://help.github.com/en/articles/set-up-git) and create a local clone of your forked repository. Make changes to your local clone, and when you are ready, [push](https://help.github.com/en/articles/pushing-to-a-remote) your changes to the forked repository. Read more about [Git](https://git-scm.com/) and [Github flow](https://guides.github.com/introduction/flow/).
     
 4a. Submit a [pull request](https://help.github.com/en/articles/proposing-changes-to-your-work-with-pull-requests).
     
-    A member of the main team will review your changes, have a bit of discussion and hopefully merge them in!
+A member of the main team will review your changes, have a bit of discussion and hopefully merge them in!
 
 **Success!!** :balloon::balloon::balloon: Well done! And thank you :smiley:
 
@@ -66,9 +66,9 @@ Once you've identified a way to contribute, you're ready to make a change to one
 
 3b. Add your code or other resources, and clearly describe the purpose and use of your project in the README file. As you are developing your project, you will probably need to make changes... There are a few different ways to do this (similar to 3a) above:
 
-    * Are you simply fixing typing mistakes? Go ahead and make your corrections on the "master branch" of your repository.
-    * Are you changing more than typing mistakes, but they are all changes you can make on Github itself? Then please create a [separate branch](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository). This isolates your work so it doesn't affect your master branch. You can read more about branches [here](https://help.github.com/en/articles/about-branches). 
-    * Do you need to do work on your local machine, for example run and test the code you are contributing? Then you'll need to [set up Git](https://help.github.com/en/articles/set-up-git) and create a local clone of your repository. Make changes to your local clone, and when you are ready, [push](https://help.github.com/en/articles/pushing-to-a-remote) your changes to the Github repository. Read more about [Git](https://git-scm.com/) and [Github flow](https://guides.github.com/introduction/flow/).
+* Are you simply fixing typing mistakes? Go ahead and make your corrections on the "master branch" of your repository.
+* Are you changing more than typing mistakes, but they are all changes you can make on Github itself? Then please create a [separate branch](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository). This isolates your work so it doesn't affect your master branch. You can read more about branches [here](https://help.github.com/en/articles/about-branches). 
+* Do you need to do work on your local machine, for example run and test the code you are contributing? Then you'll need to [set up Git](https://help.github.com/en/articles/set-up-git) and create a local clone of your repository. Make changes to your local clone, and when you are ready, [push](https://help.github.com/en/articles/pushing-to-a-remote) your changes to the Github repository. Read more about [Git](https://git-scm.com/) and [Github flow](https://guides.github.com/introduction/flow/).
     
 4b. If you created your repository in your own personal account, you have the option to either keep it there and share a link with the CMAS community (to be added to our [Code Index](https://github.com/cmasuki/open-code/blob/master/Code/CodeIndex.md)), or you can pass ownership to the CMAS organisation. In either case, thank you very much for your contribution!! :smiley:
     
