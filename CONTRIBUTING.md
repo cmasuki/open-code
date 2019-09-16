@@ -34,7 +34,7 @@ Have a look around the project! Make sure you read the [README file](https://git
 
 Once you've identified a way to contribute, you're ready to make a change to one of our project repositories! :tada:
 
-1. First, describe what you're planning to do as a comment to the issue you've identified, or make a new issue. If your aim is to improve a particular code repository (one of [these](https://github.com/cmasuki/open-code/blob/master/Code/CodeIndex.md), make or comment on an issue on the repository itself. If you'd like to add new code or resources, add your issue to the [open-code repository](https://github.com/cmasuki/open-code/issues).
+1. First, describe what you're planning to do as a comment to the issue you've identified, or make a new issue. If your aim is to improve a particular code repository (one of [these](https://github.com/cmasuki/open-code/blob/master/Code/CodeIndex.md)), make or comment on an issue on the repository itself. If you'd like to add new code or resources, add your issue to the [open-code repository](https://github.com/cmasuki/open-code/issues).
 
     The purpose of writing a good comment in advance is to ensure you aren't overlapping with work that's currently underway and that everyone is on the same page with the goal of the work you're going to carry out.
     
