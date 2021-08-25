@@ -14,6 +14,10 @@ However, not everyone has the skills or time to learn how to develop their own c
 
 ---
 
+CMAS and the moderators of this repository cannot not take any responsibility regarding the (clinical) use of code shared here. The regulations regarding the use of in-house software in clinical practice are dependent on your geographical location and are subject to change. Before using code from this repository or sharing your own code it is highly recommended to read the [CMAS MDR Fact Sheet and Position Statement](https://cmasuki.org/news/mdr_fact_position_statement/).
+
+---
+
 **People with technical skills will be able to collaborate, create new tools, and easily share them among all movement analysis labs.**
 
 *Is this you?* [Tell us a bit about yourself](https://github.com/cmasuki/open-code/issues/11) (you may need to create a new Github account if you don't already have one). Do you have code you are thinking of sharing? [Let us know about it](https://github.com/cmasuki/open-code/issues/12). Are you ready to contribute? Have a look at our [contributing guidelines](https://github.com/cmasuki/open-code/blob/master/CONTRIBUTING.md). And [sign up to our mailing list](https://tinyletter.com/CMAS) to get updates about the project!  
